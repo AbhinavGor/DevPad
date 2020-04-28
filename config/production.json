@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Abhinav:Abhinav123@socialnetwork-xlewf.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "thisIsASecret"
+}
